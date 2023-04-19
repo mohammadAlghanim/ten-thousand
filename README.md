@@ -12,3 +12,7 @@ install pytest to run the test
  ```
  pytest
  ```
+### to run the code 
+```
+python ten_thousand/game.py
+```
