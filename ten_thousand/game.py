@@ -1,5 +1,5 @@
-# from ten_thousand.game_logic import GameLogic
-from game_logic import GameLogic
+from ten_thousand.game_logic import GameLogic
+# from game_logic import GameLogic
 
 roll_dice = GameLogic.roll_dice
 points_calculate = GameLogic.calculate_score
